@@ -3,9 +3,9 @@
 - Validar campo digitado;
 - O campo deve conter mais de 6 caracteres; 
 
-<img src="../validacao/github/theme.png" 
+<img src="../github/theme.png" 
 height="20%" width="30%"> 
-<img src="../validacao/github/theme2.png"
+<img src="../github/theme2.png"
 height="20%" width="30%">
 <hr>
 
